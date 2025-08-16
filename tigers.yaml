@@ -3,7 +3,11 @@ team: Tigers
 
  manager: Brenda
 
+<<<<<<< HEAD
 Coach : Dooli
+=======
+Coach : Lupi
+>>>>>>> 452badec8181974d27bad28874cd1489b3cf92a2
 
  members:
  - Linda
