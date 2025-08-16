@@ -1,7 +1,11 @@
 team: pumas
 
 
+<<<<<<< HEAD
  manager: freedomfree
+=======
+ manager: conflictor
+>>>>>>> 3b4e619 (Edit pumas manager)
 
  members:
  - good man
